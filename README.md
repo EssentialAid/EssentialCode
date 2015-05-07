@@ -1,4 +1,4 @@
 EssentialCode
 =============
 
-A primary repository - most of the company code and materials are stored here
+A primary repository - generic company code, utilities, and materials will be stored here in the future.  
